@@ -1,12 +1,14 @@
-# Hello word! 👋
+![Header](./github-header-banner.png)
+
+<div align="center">
+  <img src="https://github.com/mariadenis/mariadenis/blob/main/IMG_1224%203.png" alt="Mascote da Maria Eduarda" width="200"/>
+</div>
 
 Seja bem-vindo(a) ao meu perfil!
 
 - 🔭 **Atualmente:** Estou cursando **Engenharia de Software** na Universidade de Brasília (UnB).
 - 👯 **Busco:** Colaborar em projetos em equipe para aumentar meu conhecimento técnico e prático.
 - 😄 **Pronomes:** Ela / Dela.
-- ⚡ **Curiosidade:** Fora do mundo dos códigos, gosto muito de **moda** e **práticas circenses** 🎪🧵.
-
 ---
 
 <div align="center">
@@ -36,18 +38,18 @@ Seja bem-vindo(a) ao meu perfil!
 ### 📫 Como entrar em contato comigo
 
 <a href="mailto:Smaria138eduarda@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF69B4" alt="Gmail Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=A42DA0" alt="Gmail Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/maria-eduarda-denis" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF69B4" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=A42DA0" alt="LinkedIn Badge"/>
 </a>
 
 ---
 
 ### 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=mariadenis&show_icons=true&theme=dracula&custom_title=Maria%20Eduarda%20GitHub%20Stats&hide=stars,issues" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadenis&layout=compact&theme=dracula" height="150" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mariadenis&show_icons=true&hide=stars,issues&custom_title=Maria%20Eduarda%20GitHub%20Stats&bg_color=A42DA0&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadenis&layout=compact&bg_color=A42DA0&title_color=000000&text_color=000000&border_color=000000" height="150" alt="languages" />
 
 ### 🐍 Minhas Contribuições
 
