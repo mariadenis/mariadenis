@@ -48,8 +48,7 @@ Seja bem-vindo(a) ao meu perfil!
 
 ### 📊 Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=mariadenis&show_icons=true&hide=stars,issues&custom_title=Maria%20Eduarda%20GitHub%20Stats&bg_color=A42DA0&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadenis&layout=compact&bg_color=A42DA0&title_color=000000&text_color=000000&border_color=000000" height="150" alt="languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mariadenis&show_icons=true&include_all_commits=true&count_private=true&bg_color=A42DA0&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=A42DA0&show=prs,commits" height="170" alt="Estatísticas" />
 
 ### 🐍 Minhas Contribuições
 
